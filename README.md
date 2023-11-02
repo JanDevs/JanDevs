@@ -1,8 +1,10 @@
 ### Hello! 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 My name is Jan Luis, I'm 24 years old and am studying informatics engineering in UPIICSA. I like web development and have a lot of interest in frontend. 
 Tools/languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,discord,github,react)](https://skillicons.dev)
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
 <!--
 **JanDevs/JanDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
