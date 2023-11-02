@@ -1,6 +1,8 @@
 ### Hello! 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-My name is Jan Luis, I'm 24 years old and am studying informatics engineering in UPIICSA. I like web development and have a lot of interest in frontend. 
+My name is Jan Luis, I'm 24 years old and am studying informatics engineering in UPIICSA. I really like web development and have a lot of interest in frontend. I'm always willing to learn new things and helping others. My hobbies are baking cookies 🍪, D&D, drawing and listening to music! 
+
+Fun Fact: I love cats 🐱
 
 Tools/languages
 
@@ -8,18 +10,4 @@ Tools/languages
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-<!--
-**JanDevs/JanDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
