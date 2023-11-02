@@ -1,6 +1,6 @@
 ### Hello! 
 I'm Jan Luis, futrure informatics engineer. I like web development and have a lot of interest in frontend. 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,discord,github,react)](https://skillicons.dev)
 
 <!--
 **JanDevs/JanDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
