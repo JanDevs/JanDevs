@@ -1,5 +1,5 @@
 ### Hello! 
-I'm Jan Luis, futrure informatics engineer. I like web development and have a lot of interest in frontend. 
+My name is Jan Luis, I'm 24 years old and am studying informatics engineering in UPIICSA. I like web development and have a lot of interest in frontend. 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,discord,github,react)](https://skillicons.dev)
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <!--
