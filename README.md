@@ -1,4 +1,5 @@
-### Hello! I'm Jan Luis, futrure informatics engineer. I like web development and have a lot of interest in frontend. 
+### Hello! 
+I'm Jan Luis, futrure informatics engineer. I like web development and have a lot of interest in frontend. 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
