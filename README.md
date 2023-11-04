@@ -11,7 +11,7 @@ Tools/languages
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=JanDevs&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,FF1800,C70039,900C3F&theme=graywhite" />
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshlohana&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshlohana&hide_title=true&layout=compact&bg_color=0,900C3F,C70039,FF1800&theme=graywhite" />
 
 
 <img src="footer.gif" width="100%">
