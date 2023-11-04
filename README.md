@@ -10,6 +10,8 @@ My name is Jan Luis, I'm 24 years old and am studying informatics engineering in
 
 ## 🛠️ My Skills
 
+<img align="right" width="240" src="https://tenor.com/view/nakanoart-nakanodrawing-cat-furry-anthro-gif-15574616"/>
+
 ### Programming Languages
 
 [![My Languages](https://skillicons.dev/icons?i=js,java)](https://skillicons.dev)
