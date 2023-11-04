@@ -1,7 +1,7 @@
 
 <img src="header.gif" width="100%">
 
-<a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%C700397&center=true&vCenter=true&lines=Hi!+welcome+to+my+Github+page;I+am+Jan+Luis;Informatics Engineer;I+am+a+Web+Developer;Cat+lover!"></a>
+<a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%C70039 &center=true&vCenter=true&lines=Hi!+welcome+to+my+Github+page;I+am+Jan+Luis;Informatics Engineer;I+am+a+Web+Developer;Cat+lover!"></a>
 
 
 My name is Jan Luis, I'm 24 years old and am studying informatics engineering in UPIICSA. I really like web development and have a lot of interest in frontend. I'm always willing to learn new things and helping others. My hobbies are baking cookies 🍪, D&D, drawing and listening to music! 
