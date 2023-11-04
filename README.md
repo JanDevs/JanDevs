@@ -12,7 +12,15 @@ My name is Jan Luis, I'm 24 years old and am studying informatics engineering in
 
 ### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,java)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=js,java)](https://skillicons.dev)
+
+### Frontend Development
+
+[![My Frontend](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+
+### Software & Tools
+
+[![My SW](https://skillicons.dev/icons?i=github,mysql,azure,git,discord)](https://skillicons.dev)
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
