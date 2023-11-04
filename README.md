@@ -22,6 +22,8 @@ My name is Jan Luis, I'm 24 years old and am studying informatics engineering in
 
 [![My SW](https://skillicons.dev/icons?i=github,mysql,azure,git,discord)](https://skillicons.dev)
 
+<img align="center" src="badge.png"/>
+
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=JanDevs&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,FF1800,C70039,900C3F&theme=dracula" />
