@@ -10,7 +10,7 @@ My name is Jan Luis, I'm 24 years old and am studying informatics engineering in
 
 ## 🛠️ My Skills
 
-<img align="right" width="240" src="https://giphy.com/embed/maNB0qAiRVAty"/>
+<img align="right" width="240" src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif"/>
 
 ### Programming Languages
 
