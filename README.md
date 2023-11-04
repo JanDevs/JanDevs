@@ -14,3 +14,4 @@ Tools/languages
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshlohana&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
 
+<img src="footer.gif" width="100%">
