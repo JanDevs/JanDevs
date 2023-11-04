@@ -3,13 +3,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=C70039&center=true&random=false&width=435&lines=Wecome+to+my+Github+page!;My+name+is+Jan+Luis;I+am+an+informatics+engineer;Web+developer;Cat+lover!)](https://git.io/typing-svg)
 <ul align="left">
-    <summary><h1 style="display: inline-block">About me</h1></summary>
+    ##<summary><h1 style="display: inline-block">About me</h1></summary>
 </ul>
 
 
-My name is Jan Luis, I'm 24 years old and am studying informatics engineering in UPIICSA. I really like web development and have a lot of interest in frontend. I'm always willing to learn new things and helping others. My hobbies are baking cookies 🍪, D&D, drawing and listening to music! 
+My name is Jan Luis, I'm 24 years old and am studying informatics engineering in UPIICSA. I really like web development and have a lot of interest in frontend. I'm always willing to learn new things and helping others. 
 
-Fun Fact: I love cats 🐱
+## 🛠️ My Skills
 
 Tools/languages
 
