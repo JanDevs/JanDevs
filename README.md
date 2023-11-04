@@ -1,5 +1,6 @@
-### Hello! 
+
 <img src="header.gif" width="100%">
+<a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Jan+Luis;I+am+a+Web+Dev;Game+Dev;Cat+lover"></a>
 My name is Jan Luis, I'm 24 years old and am studying informatics engineering in UPIICSA. I really like web development and have a lot of interest in frontend. I'm always willing to learn new things and helping others. My hobbies are baking cookies 🍪, D&D, drawing and listening to music! 
 
 Fun Fact: I love cats 🐱
