@@ -27,5 +27,11 @@ Graduated from UPIICSA.
 
 <img align="center" height="100" width="100" src="badge.png"/>
 
+### Testing Skills
+
+## Black Box Testing
+## Unit Testing
+## Integration Testing
+## Acceptance Testing
 
 <img src="footer.gif" width="100%">
