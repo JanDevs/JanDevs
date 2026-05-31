@@ -27,8 +27,5 @@ Graduated from UPIICSA.
 
 <img align="center" height="100" width="100" src="badge.png"/>
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=JanDevs&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,FF1800,C70039,900C3F&theme=dracula" />
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshlohana&hide_title=true&layout=compact&bg_color=0,900C3F,C70039,FF1800&theme=dracula" />
-
 
 <img src="footer.gif" width="100%">
